@@ -9,8 +9,16 @@ fix css pic
 
 4. Setup the WSL for hamza, so he can do this stuff on his own back home
 
+5. Hamza needs to start doing the actual job in order to be paid
 
 
 
+test stuff locally by running this:
+1. cd docs
+2. python3 -m http.server 8000
+3. In chrome, go to localhost:8000
+4. refresh - Ctrl Shift R
 
-5. Hamza needs to start doing his job for Zyad, so he can get paid
+If want to deploy so everyone can see from anywhere do:
+1. git commit -a -m "_______"
+2. git push
