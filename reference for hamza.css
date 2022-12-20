@@ -1,0 +1,145 @@
+/* reset default styles */
+html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li,
+figure, figcaption, blockquote, hr {
+  margin: 0;
+  padding: 0;
+}
+
+/* apply a font and color scheme */
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+  background-color: #f5f5f5;
+}
+
+/* create a responsive layout */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* style the header section */
+header {
+  background-color: #333;
+  color: #fff;
+}
+
+/* redo all of above to make it fit in one css line, also adjust picture to fit in page */
+header .logo {
+  display: flex;
+  align-items: center;
+  height: 80px;
+  margin-right: 10px;
+  margin-top: -10px;
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  height: 80px;
+}
+
+header nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header nav ul li {
+  margin: 0 10px;
+}
+
+header nav ul li a {
+  font-size: 18px;
+  text-decoration: none;
+  color: #fff;
+}
+
+header nav ul li a:hover,
+header nav ul li a:active {
+  color: #ccc;
+}
+
+/* style the main content area */
+main {
+  padding: 80px 0;
+}
+
+/* style the footer section */
+footer {
+  background-color: #333;
+  color: #ccc;
+}
+
+footer p {
+  margin: 20px 0;
+}
+
+footer ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer ul li {
+  margin: 0 10px;
+}
+
+footer ul li a {
+  font-size: 18px;
+  text-decoration: none;
+  color: #ccc;
+}
+
+footer ul li a:hover,
+footer ul li a:active {
+  color: #fff;
+}
+
+
+
+
+
+body {
+  background-color: lightgray;
+}
+
+h2, h3, p {
+  color: black;
+}
+
+.player {
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.player {
+  border: 1px solid gray;
+}
+
+
+.player:hover {
+  background-color: #eee;
+  cursor: pointer;
+}
+
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+p {
+  font-size: 16px;
+  margin-top: 10px;
+}
+

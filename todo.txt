@@ -1,0 +1,16 @@
+Order of biz:
+
+1. Use jinja to simplify life
+fix css pic
+
+2. Hamza needs to do everything on his own for the rest of website
+
+3. Deploy to github pages
+
+4. Setup the WSL for hamza, so he can do this stuff on his own back home
+
+
+
+
+
+5. Hamza needs to start doing his job for Zyad, so he can get paid
