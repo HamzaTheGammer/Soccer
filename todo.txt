@@ -22,4 +22,4 @@ test stuff locally by running this:
 If want to deploy so everyone can see from anywhere do:
 1. git commit -a -m "_______"
 2. git push
-3. visit my website https://hamzathegammer.github.io/Soccer/players.html
+3. visit my website https://hamzathegammer.github.io/Soccer
