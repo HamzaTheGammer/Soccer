@@ -1,24 +1,17 @@
 Order of biz:
-
+0. Fix css
 1. Use jinja to simplify life
-fix css pic
-
-2. Hamza needs to do everything on his own for the rest of website
-
-3. Deploy to github pages
-
-4. Setup the WSL for hamza, so he can do this stuff on his own back home
-
-5. Hamza needs to start doing the actual job in order to be paid
-
-
+2. hamza needs to do rest of website so he can start the actual job and get tesla
 
 test stuff locally by running this:
+0. ctrl ~
 1. cd docs
 2. python3 -m http.server 8000
 3. In chrome, go to localhost:8000
 4. refresh - Ctrl Shift R
+5. ctrl c to terminate thingy...... clear to clear
 
+NOTE: U need to make changes to do the following
 If want to deploy so everyone can see from anywhere do:
 1. git commit -a -m "_______"
 2. git push
