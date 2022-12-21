@@ -13,6 +13,12 @@ test stuff locally by running this:
 
 NOTE: U need to make changes to do the following
 If want to deploy so everyone can see from anywhere do:
+0. if you are adding a picture you need to do this:          git add __picture name.whatever its called, can use tab to help u__
 1. git commit -a -m "_______"
 2. git push
 3. visit my website https://hamzathegammer.github.io/Soccer
+
+To add picture:
+find it
+save as and name it (see what folder u save it in, most likely downloads)
+go to downloads folder and move it to penguin...home...hamza...hamzaweb...docs
